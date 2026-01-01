@@ -4,6 +4,10 @@ Thank you for your interest in contributing to ThiqahOps! This document provides
 
 ## 🤝 Code of Conduct
 
+Read the [detailed code of conduct here](https://github.com/ImBIOS/.github/blob/main/CODE_OF_CONDUCT.md).
+
+Short version:
+
 - Be respectful and inclusive
 - Welcome newcomers and help them learn
 - Focus on constructive feedback
